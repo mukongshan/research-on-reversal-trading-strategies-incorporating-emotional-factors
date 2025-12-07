@@ -20,7 +20,7 @@ headers = {
 # 快代理隧道信息
 TUNNEL = ""
 USERNAME = "t14514172566719"
-PASSWORD = "mz26k6x3"
+PASSWORD = ""
 
 # 配置代理
 proxies = {
