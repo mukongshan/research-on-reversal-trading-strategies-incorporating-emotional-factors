@@ -18,7 +18,7 @@ headers = {
 }
 
 # 快代理隧道信息
-TUNNEL = "k247.kdltps.com:15818"
+TUNNEL = ""
 USERNAME = "t14514172566719"
 PASSWORD = "mz26k6x3"
 
