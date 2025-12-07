@@ -6,7 +6,7 @@ from tqdm import tqdm
 from openai import OpenAI
 
 # ===== 配置 =====
-API_KEY = "sk-3fe83fa822aa472b88b053fdf794c429"  # 从环境变量读取
+API_KEY = ""  # 从环境变量读取
 MODEL_NAME = "qwen-plus"   # 可换 qwen2-7b-instruct / qwen2-72b-instruct
 INPUT_DIR = r"../../../mid_result/2w_titles_slice"   # 输入文件夹
 OUTPUT_DIR = r"../../../mid_result/2w_titles_scored"  # 输出文件夹
