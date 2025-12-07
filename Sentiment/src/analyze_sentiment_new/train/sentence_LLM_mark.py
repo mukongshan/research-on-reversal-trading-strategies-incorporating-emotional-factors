@@ -6,7 +6,7 @@ from tqdm import tqdm
 from openai import OpenAI
 
 # ===== 配置 =====
-API_KEY = "sk-3fe83fa822aa472b88b053fdf794c429"  # 从环境变量读取
+API_KEY = ""  # 从环境变量读取
 MODEL_NAME = "qwen-plus"   # 可换 qwen2-7b-instruct / qwen2-72b-instruct
 INPUT_FILE = "../../../mid_result/training_data/merged_unscored_titles.csv"  # 输入 CSV
 OUTPUT_FILE = "../../../mid_result/training_data/replenish_scored_titles.csv"  # 输出 CSV
