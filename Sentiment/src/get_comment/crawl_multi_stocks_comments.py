@@ -17,9 +17,9 @@ headers = {
 }
 
 # 快代理隧道信息
-TUNNEL = "c920.kdltps.com:15818"
-USERNAME = "t14152351753831"
-PASSWORD = "nhenjhtk"
+TUNNEL = ""
+USERNAME = ""
+PASSWORD = ""
 
 # 配置代理
 proxies = {
